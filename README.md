@@ -5,7 +5,7 @@ Cogyto serves knowledge-driven organizations by empowering executives, support t
 ---
 
 ## Key Features  
-- **Smart Memoryv – Upload reports, meeting notes, or manuals; Cogyto remembers and retrieves details instantly.
+- **Smart Memory** – Upload reports, meeting notes, or manuals; Cogyto remembers and retrieves details instantly.
 - **Real-Time Knowledge** – Combines internal data with up-to-date web search for accurate answers.
 - **Proactive Assistant** – Summarizes documents, drafts or sends emails, and automates routine tasks.
 - **Multilingual Support** – Understands and responds in both English and Indonesian.
