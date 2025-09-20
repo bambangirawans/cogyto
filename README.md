@@ -1,28 +1,22 @@
 # Cogyto – AI Assistant for Unlimited Productivity  
 
-Cogyto is an **AI-powered personal assistant** built on **LLaMA** that helps you work smarter.  
-It processes your documents, retrieves insights from internal + external sources, and even automates tasks like summarizing reports, drafting emails, or sending notifications.  
-
-Stop searching manually. Start working intelligently.  
+Cogyto serves knowledge-driven organizations by empowering executives, support teams, and analysts with instant insights from documents and business data, enabling all employees to save time and focus on higher-value work.
 
 ---
 
 ## Key Features  
-
-- 🧠 **Smart Memory** – Upload documents, and Cogyto remembers + retrieves details instantly.  
-- 🌐 **Real-Time Knowledge** – Blends internal data with live web search for accurate, updated answers.  
-- ⚡ **Proactive Assistant** – Summarizes, drafts, and executes simple tasks (emails, reports, alerts).  
-- 🌍 **Multilingual Support** – Works in English and Indonesian.  
-- 🔄 **Cognitive Workflow** – Uses *plan → execute → reflect* loop for accuracy and reliability.  
-- 📊 **Enterprise-Ready** – Modular, scalable, and integrates easily with business workflows.  
-
+- **Smart Memoryv – Upload reports, meeting notes, or manuals; Cogyto remembers and retrieves details instantly.
+- **Real-Time Knowledge** – Combines internal data with up-to-date web search for accurate answers.
+- **Proactive Assistant** – Summarizes documents, drafts or sends emails, and automates routine tasks.
+- **Multilingual Supportv – Understands and responds in both English and Indonesian.
+- **RAG Workflow** – Uses a plan → execute → reflect cognitive loop for accurate, refined answers.
 ---
 
 ## 🛠Tech Stack  
 
 ### Development  
 - **Backend:** Flask, SQLAlchemy  
-- **Database:** PostgreSQL (pgvector) or ChromaDB (local dev)  
+- **Database:** PostgreSQL (pgvector) 
 - **Knowledge Graph:** Neo4j  
 - **LLM:** LLaMA  
 - **APIs & Tools:** Tavily, SerpAPI (search), Hugging Face Transformers (NLP/vision), smtplib (email)  
