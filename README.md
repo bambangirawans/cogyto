@@ -55,7 +55,7 @@ cogyto/
 └── docs/                  # Documentation
 ```
 ---
-## 🧠 How It Works (User Journey)  
+## How It Works (User Journey)  
 
 1. **Ask or Upload** – Users start by typing a question or uploading documents.  
 2. **Plan** – Cogyto,Creates a step-by-step reasoning plan to solve the query.  
