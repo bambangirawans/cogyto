@@ -8,11 +8,11 @@ Cogyto serves knowledge-driven organizations by empowering executives, support t
 - **Smart Memoryv – Upload reports, meeting notes, or manuals; Cogyto remembers and retrieves details instantly.
 - **Real-Time Knowledge** – Combines internal data with up-to-date web search for accurate answers.
 - **Proactive Assistant** – Summarizes documents, drafts or sends emails, and automates routine tasks.
-- **Multilingual Supportv – Understands and responds in both English and Indonesian.
+- **Multilingual Support** – Understands and responds in both English and Indonesian.
 - **RAG Workflow** – Uses a plan → execute → reflect cognitive loop for accurate, refined answers.
 ---
 
-## 🛠Tech Stack  
+## Tech Stack  
 
 ### Development  
 - **Backend:** Flask, SQLAlchemy  
@@ -23,7 +23,7 @@ Cogyto serves knowledge-driven organizations by empowering executives, support t
 - **Frontend:** HTML, CSS, JavaScript (real-time chat UI)  
 
 ### Production (AWS)  
-- **LLM Hosting:** LLaMA via Amazon Bedrock / SageMaker  
+- **LLM Hosting:** LLaMA via Amazon Bedrock
 - **Vector Store:** Amazon Aurora PostgreSQL (pgvector)  
 - **Storage:** Amazon S3 (documents, backups)  
 - **Backend:** Flask/FastAPI with SQLAlchemy  
