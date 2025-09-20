@@ -63,15 +63,6 @@ cogyto/
 4. **Reflect & Refine** – Reviews the draft answer, checks accuracy, and improves clarity before finalizing.  
 5. **Deliver** – The user instantly receives a refined, contextual response enriched with insights.  
 
-### 🔄 Visual Flow  
-
-```mermaid
-flowchart LR
-    A[👤 Ask or Upload] --> B[🧠 Plan ]
-    B --> C[⚙️ Execute Tools\n(Vector DB, Web Search, Vision)]
-    C --> D[🔍 Reflect & Refine\n(Accuracy + Clarity)]
-    D --> E[✅ Deliver Response\n(Contextual & Instant)]
-```
 ---
 
 ## Roadmap
