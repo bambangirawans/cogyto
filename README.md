@@ -53,6 +53,7 @@ cogyto/
 │   └── utils/             # Text utils (cleaning, translation, language detection)
 ├── static/                # Frontend assets (HTML, CSS, JS)
 └── docs/                  # Documentation
+```
 ---
 ## 🧠 How It Works (User Journey)  
 
