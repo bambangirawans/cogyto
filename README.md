@@ -67,11 +67,13 @@ cogyto/
 
 ```mermaid
 flowchart LR
-    A[👤 Ask or Upload] --> B[🧠 Plan with LLaMA]
+    A[👤 Ask or Upload] --> B[🧠 Plan ]
     B --> C[⚙️ Execute Tools\n(Vector DB, Web Search, Vision)]
     C --> D[🔍 Reflect & Refine\n(Accuracy + Clarity)]
     D --> E[✅ Deliver Response\n(Contextual & Instant)]
+```
 ---
+
 ## Roadmap
 - Add multimodal support (images, videos)
 - Smarter long-term memory & personalization
